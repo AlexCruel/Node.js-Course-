@@ -9,5 +9,3 @@ Task.findByIdAndDelete('5e2f2c0809bb370eb067e9a0').then((user) => {
 }).catch((e) => {
     console.log(e)
 })
-
-test
