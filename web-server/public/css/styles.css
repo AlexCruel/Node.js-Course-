@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Zhi+Mang+Xing&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+KR&display=swap');
 body {
     color: #333333;
     font-family: arial;
@@ -51,4 +53,22 @@ button {
     background: #888888;
     color: white;
     padding: 8px;
+}
+
+.mang {
+    font-family: 'Zhi Mang Xing', cursive;
+    font-size: 50px;
+}
+
+.mangFooter {
+    font-family: 'Zhi Mang Xing', cursive;
+    font-size: 30px;
+    margin: 0;
+}
+
+.noto,
+li,
+ul {
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 20px;
 }
